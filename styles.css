@@ -213,7 +213,7 @@ p {
   }
 
   .presenter-info {
-    padding: 0 25px;
+    padding: 0 46px;
   }
 }
 
@@ -238,6 +238,9 @@ p {
   }
   .presenter-panel {
     padding: 50px 0 1px 0;
+  }
+  .presenter-info {
+    padding: 0 25px;
   }
   .presenter-box {
     margin: 25px 0 100px 0;
